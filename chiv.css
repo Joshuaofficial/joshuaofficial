@@ -1,0 +1,38 @@
+footer{
+    color: teal;
+}
+.fr{
+    font-family: 'Courier New', Courier, monospace;
+}
+/*navbar*/
+.gl{
+    margin-left: 15px;
+}
+.drip{
+    font-weight: lighter;
+}
+.ten{
+    position: fixed;
+}
+.fp{
+  font-weight: 100;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*image effect*/
+.ing{
+    box-shadow: 15px 15px teal;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+li{
+    list-style: none;
+    display:inline-block;  
+}
+.fuut{
+    padding: 0px;
+    margin-right: 40px;
+}
+input::placeholder{
+    color: black;
+    font-size: smaller;
+}
